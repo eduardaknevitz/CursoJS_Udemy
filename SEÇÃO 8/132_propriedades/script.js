@@ -1,6 +1,6 @@
 let nome = "Lohan";
 
-console.log(nome.length); // Conta o nº de caracteres ('lohan' = 5)
+console.log(nome.length); // Conta o nº de caracteres ('Lohan' = 5)
 
 let numeros = [1, 23, 34, 5, 6, 7, 8];
 
